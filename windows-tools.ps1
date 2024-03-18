@@ -5,6 +5,7 @@ winget install dbeaver.dbeaver
 winget install LINQPad.LINQPad.8
 winget install JetBrains.Toolbox
 winget install Microsoft.WindowsTerminal
+winget install Microsoft.PowerShell
 winget install gerardog.gsudo
 winget install Microsoft.AzureCLI
 winget install Git.Git
